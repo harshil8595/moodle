@@ -1,0 +1,6 @@
+[submodule "mod/bigbluebuttonbn"]
+	path = mod/bigbluebuttonbn
+	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn
+[submodule "blocks/coupon"]
+	path = blocks/coupon
+	url = https://github.com/sebsoftnl/moodle-block_coupon

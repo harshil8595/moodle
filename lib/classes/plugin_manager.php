@@ -1929,6 +1929,10 @@ class core_plugin_manager {
                 'quiz', 'resource', 'scorm', 'survey', 'url', 'wiki', 'workshop'
             ),
 
+            'paygw' => [
+                'paypal',
+            ],
+
             'plagiarism' => array(
             ),
 
