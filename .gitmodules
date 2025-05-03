@@ -1,0 +1,27 @@
+[submodule "admin/tool/mutenancy"]
+	path = admin/tool/mutenancy
+	url = https://github.com/mutms/moodle-tool_mutenancy.git
+[submodule "admin/tool/mulib"]
+	path = admin/tool/mulib
+	url = https://github.com/mutms/moodle-tool_mulib.git
+[submodule "enrol/muprog"]
+	path = enrol/muprog
+	url = https://github.com/mutms/moodle-enrol_muprog.git
+[submodule "blocks/muprog_my"]
+	path = blocks/muprog_my
+	url = https://github.com/mutms/moodle-block_muprog_my.git
+[submodule "customfield/field/mutrain"]
+	path = customfield/field/mutrain
+	url = https://github.com/mutms/moodle-customfield_mutrain.git
+[submodule "admin/tool/mutrain"]
+	path = admin/tool/mutrain
+	url = https://github.com/mutms/moodle-tool_mutrain.git
+[submodule "blocks/mucertify_my"]
+	path = blocks/mucertify_my
+	url = https://github.com/mutms/moodle-block_mucertify_my.git
+[submodule "admin/tool/muprog"]
+	path = admin/tool/muprog
+	url = https://github.com/mutms/moodle-tool_muprog.git
+[submodule "admin/tool/mucertify"]
+	path = admin/tool/mucertify
+	url = https://github.com/mutms/moodle-tool_mucertify.git
